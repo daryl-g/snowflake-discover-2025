@@ -1,0 +1,1 @@
+/workspaces/snowflake-pipeline/Streamlit native app/sfguide-native-apps-chairlift/app/README.md

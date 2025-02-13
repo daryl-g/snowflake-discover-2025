@@ -1,0 +1,1 @@
+/workspaces/snowflake-pipeline/Streamlit native app/sfguide-native-apps-chairlift/app/sql_lib/config_code-register_single_callback.sql

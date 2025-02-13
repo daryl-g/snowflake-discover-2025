@@ -1,0 +1,1 @@
+/workspaces/snowflake-pipeline/Streamlit native app/sfguide-native-apps-chairlift/app/sql_lib/warnings_code-create_warning_check_task.sql
