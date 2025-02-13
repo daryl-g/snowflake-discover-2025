@@ -1,0 +1,6 @@
+.packages/
+.venv/
+app.zip
+requirements.snowflake.txt
+__pycache__
+fahrenheit_to_celsius_udf.zip
