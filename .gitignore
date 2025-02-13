@@ -1,0 +1,5 @@
+# Dev container configs
+*.toml
+
+# Folders
+/.devcontainer
